@@ -4,13 +4,6 @@
 
 This Advanced Calculator project serves as a comprehensive demonstration of software engineering skills across multiple programming languages: C, Java, and C++. The project is designed to showcase a deep understanding of algorithms, data structures, and software design principles.
 
-## Target Audience
-
-- Software Engineering Recruiters
-- Product Management Recruiters
-- Technical Leads
-- Hiring Managers
-
 ## Core Competencies Demonstrated
 
 - **Algorithmic Thinking**: Implementation of various mathematical operations and algorithms.
